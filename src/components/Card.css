@@ -1,0 +1,74 @@
+:root{
+    --first-color: rgb(6, 0, 255);
+    --second-color: rgb(169, 169, 164);
+    --white-alpha-color: rgb(255, 255, 255,0.8);
+    
+}
+
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding: 2rem;
+}
+    .card{
+        height: 350px;
+        width: 300px;
+    }
+        .card-image{
+            height: 300px;
+            position: relative;
+            width: inherit;
+        }
+            .card-front, .card-back{
+                height: 300px;
+                position: absolute;
+            }
+            .card-front img{
+                height: 300px;   
+            }
+            .card-back{
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-end;
+                opacity: 0;
+            }
+                .img-back{
+                    height: 300px;
+                }
+                .img-back img{
+                    height: inherit;
+                }
+                .text-back{
+                    background-color: var(--white-alpha-color);
+                    height: 50px;
+                    text-align: center;
+                    color: var(--first-color);
+                    text-shadow: 0px 1px var(--second-color);
+                    position: absolute;
+                    width: 100%;
+                    transform: scaleY(0);
+                }
+                #mouse-over:hover{
+                    opacity: 1;
+                }
+                #mouse-over:hover .text-back{
+                    transform: scaleY(1);
+                    transition: all 0.1s linear;
+                }
+        .card-description{
+            align-items: center;
+            display: flex;
+            height: 50px;  
+            justify-content: space-between;
+        }   
+            .title{
+                color:var(--first-color);
+                font-weight: 500;
+                margin-bottom: 0px;
+            }
+            .price{
+                color: var(--second-color);
+                font-weight:600;
+                margin-top: 1px;
+            }
+
