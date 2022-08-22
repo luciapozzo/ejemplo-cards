@@ -1,7 +1,7 @@
 {
   "main.css": "/ejemplo-cards/static/css/main.2d9946bd.chunk.css",
-  "main.js": "/ejemplo-cards/static/js/main.57eff527.chunk.js",
-  "main.js.map": "/ejemplo-cards/static/js/main.57eff527.chunk.js.map",
+  "main.js": "/ejemplo-cards/static/js/main.dffaab98.chunk.js",
+  "main.js.map": "/ejemplo-cards/static/js/main.dffaab98.chunk.js.map",
   "static/js/1.98639319.chunk.js": "/ejemplo-cards/static/js/1.98639319.chunk.js",
   "static/js/1.98639319.chunk.js.map": "/ejemplo-cards/static/js/1.98639319.chunk.js.map",
   "static/js/2.7d894647.chunk.js": "/ejemplo-cards/static/js/2.7d894647.chunk.js",
@@ -16,6 +16,6 @@
   "static/media/card3-back.jpg": "/ejemplo-cards/static/media/card3-back.fe95516b.jpg",
   "static/css/main.2d9946bd.chunk.css.map": "/ejemplo-cards/static/css/main.2d9946bd.chunk.css.map",
   "index.html": "/ejemplo-cards/index.html",
-  "precache-manifest.cc258c02a378ee674ea0aa97a22372d5.js": "/ejemplo-cards/precache-manifest.cc258c02a378ee674ea0aa97a22372d5.js",
+  "precache-manifest.908ef4d1a0c657a40a5652288e290b73.js": "/ejemplo-cards/precache-manifest.908ef4d1a0c657a40a5652288e290b73.js",
   "service-worker.js": "/ejemplo-cards/service-worker.js"
 }
