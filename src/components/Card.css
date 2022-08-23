@@ -1,14 +1,15 @@
-:root{
-    --first-color: rgb(6, 0, 255);
-    --second-color: rgb(169, 169, 164);
-    --white-alpha-color: rgb(255, 255, 255,0.8);
+.card-container{
+    display: grid;
+    justify-items: center;       
+    row-gap: 2rem;
+    padding-top: 2rem;
     
 }
 
-.card-container{
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
-    padding: 2rem;
+@media only screen and (min-width:800px) {
+    .card-container{
+        grid-template-columns: repeat(3,1fr);
+    }
 }
     .card{
         height: 350px;
