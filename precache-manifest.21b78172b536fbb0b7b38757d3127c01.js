@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "dffaab983bea64f2633a",
-    "url": "/ejemplo-cards/static/css/main.2d9946bd.chunk.css"
+    "revision": "6a52efc4301e6ec0c916",
+    "url": "/ejemplo-cards/static/css/main.be78863d.chunk.css"
   },
   {
-    "revision": "dffaab983bea64f2633a",
-    "url": "/ejemplo-cards/static/js/main.dffaab98.chunk.js"
+    "revision": "6a52efc4301e6ec0c916",
+    "url": "/ejemplo-cards/static/js/main.6a52efc4.chunk.js"
   },
   {
-    "revision": "9863931913954e89bf2e",
-    "url": "/ejemplo-cards/static/js/1.98639319.chunk.js"
+    "revision": "05a8e767b6b683ee5dc9",
+    "url": "/ejemplo-cards/static/js/1.05a8e767.chunk.js"
   },
   {
     "revision": "7d89464741f2193926da",
     "url": "/ejemplo-cards/static/js/2.7d894647.chunk.js"
   },
   {
-    "revision": "ecf1853794a70b6d1a66",
-    "url": "/ejemplo-cards/static/js/runtime~main.ecf18537.js"
+    "revision": "f126df3ec2bbeb17ede2",
+    "url": "/ejemplo-cards/static/js/runtime~main.f126df3e.js"
   },
   {
     "revision": "46c30677937ee2b38ae3d3861cf3c1f5",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/ejemplo-cards/static/media/card3-back.fe95516b.jpg"
   },
   {
-    "revision": "2ebcb7d3035f3759bc6c787445c4b0ed",
+    "revision": "2021d29d3eb3ed3e0a4450682b5693e6",
     "url": "/ejemplo-cards/index.html"
   }
 ];
